@@ -12,9 +12,9 @@ Support *.mp4 .webm .ogv* Video file.
 
 In the terminal, go to our directory with the project and enter the command:
     
-    clickable
+    clickable build -a all
     
-The project will compile and run on our phone
+The project will compile and run on your phone
 
 ## License
 
@@ -26,3 +26,7 @@ by the Free Software Foundation.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranties of MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+## Updated
+20250829 Updated for Focal by Alaskalinuxuser
